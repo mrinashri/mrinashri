@@ -38,7 +38,9 @@ This GitHub profile is a **hub of all my technical projects**, built with clean 
 ### 🔹 Others
 - ✅ Signal Processing algorithms
 - ✅ Machine Learning
-- ✅ SQL 
+- ✅ SQL
+- ✅ VLSI
+- ✅ Networking
 
 ---
 
