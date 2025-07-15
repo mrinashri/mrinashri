@@ -23,7 +23,7 @@ This GitHub profile is a **hub of all my technical projects**, built with clean 
 
 ## 🔧 Tech Domains I Work In
 
-### 🔹 Embedded Systems (STM32 / ESP32 / AVR)
+### 🔹 Embedded Systems (STM32)
 - ✅ STM32F446RE basics (GPIO, Timers, UART, PWM, ADC)
 - ✅ HAL-based and Bare-metal C programming
 - ✅ Sensor & actuator interfacing
