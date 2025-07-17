@@ -49,7 +49,8 @@ This GitHub profile is a **hub of all my technical projects**, built with clean 
 | Project | Description |
 |--------|-------------|
 | 🔹 [STM32F446RE-Basics](https://github.com/mrinashri/STM32F446RE) | Beginner projects using STM32CubeIDE — GPIO, ADC, UART, PWM, etc. |
-| 🔹 More coming soon... | Stay tuned for RTOS, SQL, Image Processing and Machine Learning projects! |
+| 🔹 [ImageProcessing-Projects](https://github.com/mrinashri/Digital-Image-Processing) | A collection of OpenCV projects for object detection, filtering, and more |
+| 🔹 More coming soon... | Stay tuned for RTOS, SQL and Machine Learning projects! |
 
 ---
 
